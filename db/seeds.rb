@@ -7,9 +7,5 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-Book.create(title: 'So, You Want to be a Wizard?')
-Book.create(title: 'The Singularity')
-Book.create(title: 'Catcher in the Rye')
 
-
-User.create(username: 'lain', password: 'hahahahha')
+User.create(username: 'foo', password: 'bar')
