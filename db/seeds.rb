@@ -10,3 +10,6 @@
 Book.create(title: 'So, You Want to be a Wizard?')
 Book.create(title: 'The Singularity')
 Book.create(title: 'Catcher in the Rye')
+
+
+User.create(username: 'lain', password: 'hahahahha')
